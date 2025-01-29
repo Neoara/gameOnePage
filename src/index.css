@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: 'Bebas Neue', serif;
+  letter-spacing: -1px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

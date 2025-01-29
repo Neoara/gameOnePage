@@ -1,0 +1,60 @@
+.header {
+  max-height: 800px;
+}
+
+.header_image {
+  color: white;
+  background-image: url('https://static.tildacdn.com/tild3830-6462-4466-b531-643035323061/_.png');
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  max-width: 1600px;
+  height: 100%;
+  width: 100%;
+}
+
+.header_text_title {
+  font-size: 30px;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: -2px;
+  text-align: left;
+  padding: 30px;
+}
+
+.header_when {
+  font-weight: 600;
+  font-size: 25px;
+}
+
+.header_btn {
+  background-color: rgb(211, 131, 242);
+  border: 0;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  height: 50px;
+  width: 200px;
+}
+
+.experience_block {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.purple-border {
+  border: 3px solid #b35ad6;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.answers_block {
+  background-image: url('https://optim.tildacdn.com/tild6630-3863-4136-b464-396364343936/-/format/webp/photo.png');
+  background-size: cover;
+}
+
+.invite_block {
+  background-image: url('https://optim.tildacdn.com/tild3765-3061-4433-b633-643736393339/-/format/webp/_3_.png');
+  background-size: cover;
+}
